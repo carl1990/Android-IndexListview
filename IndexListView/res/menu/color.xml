@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="common_bg_normal">#1f2324</color>
+    <color name="gray">#777777</color>
+    <color name="viewpager_divide">#101010</color>
+    <color name="black">#000000</color>
+    <color name="app_recommend_tubu_text">#2e3045</color>
+    <color name="accounting_bg">#F0F0F0</color>
+    <color name="transparent">#000000</color>
+    <color name="navigation_select">#33b5e5</color>
+    <color name="navigation_select_pressed">#0099cc</color>
+    <color name="navigation_normal">#1f2326</color>
+    <color name="navigation_normal_add">#00E5EE</color>
+
+    <!-- current color -->
+    <color name="light_gray_1">#efefef</color>
+    <color name="text_gray">#5e5e5e</color>
+    <color name="text_tab">#999999</color>
+    <color name="activity_detail_intro">#555555</color>
+    <color name="activity_detail_intro_bg">#e8ebef</color>
+    <color name="text_tab_separate">#e2e4e8</color>
+    <color name="text_tab_bg">#f8f8f8</color>
+    <color name="light_gray_2">#cfcfcf</color>
+    <color name="item_divider_gray">#dddddd</color>
+    <color name="item_divider_gray_1">#d3d3d3</color>
+    <color name="green">#8bc53f</color>
+    <color name="yellow">#ffd400</color>
+    <color name="no_color">#0000</color>
+    <color name="orange">#ff7a00</color>
+    <color name="dark_orange">#ff702a</color>
+    <color name="dark_black">#303030</color>
+    <color name="setting_black">#333333</color>
+    <color name="middle_black">#565656</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_member_grid">#f6f6f6</color>
+    <color name="gray_frame">#cccccc</color>
+    <color name="setting_frame">#d9dbdf</color>
+    <color name="dark_gray">#414141</color>
+    
+    <color name="message_title">#f8f8f8</color>
+    <color name="message_divider">#e1e1e1</color>
+    
+    <color name="menu_text_color">#212121</color>
+    <color name="menu_text_shardow_color">#717171</color>
+    <color name="violet">#682c90</color>
+    <color name="light_orange">#fe7701</color>
+    <color name="dark_red">#eb008b</color>
+    <color name="profile_green">#61b100</color>
+        <!-- 七彩色 -->
+    <color name="qicai_1">#ec1b23</color>
+    <color name="qicai_2">#eb008b</color>
+    <color name="qicai_3">#652c90</color>
+    <color name="qicai_4">#ff7a00</color>
+    <color name="qicai_5">#ffd400</color>
+    <color name="qicai_6">#8bc53f</color>
+    <color name="qicai_7">#006837</color>
+    <color name="search_green">#7db732</color>
+    <!-- personal setting -->
+    
+    <!-- account -->
+    <color name="account_bg">#e8ebef</color>
+    <color name="account_top_line">#d9dbdf</color>
+    <color name="account_divider_line">#e2e4e8</color>
+    <color name="account_dark_black">#333333</color>
+    <color name="account_green">#33b5e5</color>
+    <color name="account_cost_green">#01a39c</color>
+    <color name="account_cost_gray">#999999</color>
+    <color name="account_cost_red">#e25554</color>
+    <color name="account_history_gray">#bcbcbc</color>
+    
+    <color name="login_black">#032732</color>
+    <color name="login_white">#fefefe</color>
+    <color name="login_native">#006f94</color>
+    
+    <color name="weather_city">#c2e4f5</color>
+    <color name="left_drawer_line">#363b37</color>
+    <color name="actionbar_press">#0099cc</color>
+    
+    <color name="popupclick">#e8ebf0</color>
+    <color name="copylite_color">#4f4f4f</color>
+    <color name="color_black_light">#99000000</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_gray">#736F6E</color>
+    <color name="color_blue_sky">#5e7d87</color>
+    <color name="color_gray_light">#99C9C9C9</color>
+    <color name="light_blue">#a133b5e5</color>
+    <color name="person_divider">#c7cacf</color>
+    <color name="gps_place_city">#7e97a0</color>
+    <color name="gps_place_bg_color">#edf2f5</color>
+    
+    <color name="travelog_source">#b5b5b5</color>
+    <color name="message_title_vertical_divider">#e5e5e5</color>
+    <color name="message_title_select_num">#999</color>
+    <color name="message_title_content">#666</color>
+    <color name="message_title_title">#333</color>
+    <color name="message_unread">#33b5e6</color>
+    <color name="gps_place_text_view_divider">#e3e4e8</color>
+    
+    <color name="login_native_pressed">#c8e0ec</color>
+    <color name="login_white_qq">#fff</color>
+    
+</resources>

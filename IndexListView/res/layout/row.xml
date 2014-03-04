@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/row_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/h_72px"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:id="@+id/row_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="@dimen/h_4px"
+        android:layout_marginLeft="@dimen/h_8px"
+        android:textSize="@dimen/h_28px"/>
+
+</RelativeLayout>
